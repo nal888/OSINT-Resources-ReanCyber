@@ -32,7 +32,30 @@ https://www.youtube.com/watch?v=7CD_Nl3iwhE
 
 <img width="829" height="921" alt="image" src="https://github.com/user-attachments/assets/37b1059e-7bd4-4acf-81e4-0a0eb0f7c2c9" />
 
+## Sock Puppets
+
+### Creating an Effective Sock Puppet
+(Wayback Machine archived link — may also be temporarily unavailable at times)
+
+https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
+
+### The Art of the Sock
+
+https://www.secjuice.com/the-art-of-the-sock-osint-humint/
+
+### Reddit – Anonymous Sock Puppet Setup Process
+
+https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
+
+#### Identity Generators
+
+##### Fake Name Generator
+
+https://www.fakenamegenerator.com/
+
+##### This Person Does Not Exist
+
+https://www.thispersondoesnotexist.com/
 
 
 
-## 
