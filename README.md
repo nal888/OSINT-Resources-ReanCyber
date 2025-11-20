@@ -48,7 +48,6 @@ https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 
 #### Identity Generators
-
 ##### Fake Name Generator
 
 https://www.fakenamegenerator.com/
@@ -57,5 +56,12 @@ https://www.fakenamegenerator.com/
 
 https://www.thispersondoesnotexist.com/
 
+##### Private Email
+
+https://proton.me/mail
+
+##### Virtual Card for Puppets
+
+https://www.privacy.com/
 
 
