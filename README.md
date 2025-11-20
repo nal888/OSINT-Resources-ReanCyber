@@ -1,5 +1,27 @@
 # OSINT-Resources-ReanCyber
 
+## Note Taking
+
+#### Notion
+
+https://www.notion.com/
+
+#### Obsidian
+
+https://obsidian.md/
+
+#### OneNote
+
+https://onenote.cloud.microsoft/en-us/
+
+#### KeepNote
+
+http://keepnote.org/
+
+#### CherryTree
+
+https://www.giuspen.com/cherrytree/
+
 ## OPSEC
 
 ### They Will Spy On You :))
