@@ -2,25 +2,15 @@
 
 ## Note Taking
 
-#### Notion
+#### Notion: https://www.notion.com/
 
-https://www.notion.com/
+#### Obsidian: https://obsidian.md/
 
-#### Obsidian
+#### OneNote: https://onenote.cloud.microsoft/en-us/
 
-https://obsidian.md/
+#### KeepNote: http://keepnote.org/
 
-#### OneNote
-
-https://onenote.cloud.microsoft/en-us/
-
-#### KeepNote
-
-http://keepnote.org/
-
-#### CherryTree
-
-https://www.giuspen.com/cherrytree/
+#### CherryTree: https://www.giuspen.com/cherrytree/
 
 ## OPSEC
 
