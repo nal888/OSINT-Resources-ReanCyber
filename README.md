@@ -12,6 +12,12 @@
 
 #### CherryTree: https://www.giuspen.com/cherrytree/
 
+### Screenshot Tools
+
+#### Greenshot: https://getgreenshot.org/
+
+#### Flameshot: https://github.com/flameshot-org/flameshot
+
 ## OPSEC
 
 ### They Will Spy On You :))
