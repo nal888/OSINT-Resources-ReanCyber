@@ -1,4 +1,4 @@
-<img width="433" height="159" alt="image" src="https://github.com/user-attachments/assets/8b482a8b-244b-42ee-ba0b-0b5611046fef" /># OSINT-Resources-ReanCyber
+# OSINT-Resources-ReanCyber
 
 ## Note Taking
 
