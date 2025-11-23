@@ -142,6 +142,8 @@ https://www.privacy.com/
 
 #### Sogou Images: https://pic.sogou.com/
 
+Exiftool (Kali)
+
 ### AI Image Search 
 
 #### FaceCheck: https://facecheck.id/
@@ -177,3 +179,5 @@ https://www.privacy.com/
 #### 2: https://www.youtube.com/watch?v=CWMF8Bx_Lyk&list=PLuml4H0SvaD0TiB6nKnzcbsTVOSA3-C2W
 
 ## Email OSINT
+
+### More Coming Soon :))
