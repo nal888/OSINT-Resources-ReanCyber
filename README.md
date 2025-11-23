@@ -142,7 +142,7 @@ https://www.privacy.com/
 
 #### Sogou Images: https://pic.sogou.com/
 
-Exiftool (Kali)
+#### Exiftool (Kali)
 
 ### AI Image Search 
 
